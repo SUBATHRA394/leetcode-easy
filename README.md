@@ -1,1 +1,1 @@
-# leetcode-easy-java
+# leetcode-easy
